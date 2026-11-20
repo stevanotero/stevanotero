@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=220&section=header&text=Juan%20Stevan%20Otero&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer&descSize=20&descAlignY=56&animation=fadeIn" alt="Juan Stevan Otero - Software Developer" width="100%"/>
 </p>
 
-<h3 align="center">Hi there 👋</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/></a>
@@ -15,64 +13,57 @@
 
 ## 👋 Sobre mí
 
-Desarrollador de software que construye soluciones completas, de la base de datos a la interfaz: desde aplicaciones de escritorio en **Java** hasta plataformas web y móviles en **producción** con **TypeScript**. Diseño sistemas con **arquitectura limpia** y patrones de diseño, con trazabilidad total de cada acción mediante auditoría. Trabajo con **Scrum** y entrego software mantenible, seguro y listo para crecer.
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Java+Developer;Scrum;Clean+Architecture;MVC+%2B+DAO;SQL+%7C+MySQL+%7C+PostgreSQL" alt="Texto animado: Java Developer, Scrum, Clean Architecture, MVC + DAO, SQL"/></a>
-</p>
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <p>Desarrollador de software con una base sólida en <b>Java</b> y experiencia creando aplicaciones de escritorio, web y móviles. Me gusta el código limpio y bien estructurado: separo responsabilidades con <b>arquitectura limpia</b>, aplico <b>patrones de diseño</b> y me aseguro de que cada acción importante del sistema quede registrada. Trabajo en equipo con <b>Scrum</b> y convierto requerimientos en software funcional, sprint tras sprint.</p>
+      <ul>
+        <li>🔭 Construyendo sistemas con <b>MVC + DAO</b> y bases de datos relacionales</li>
+        <li>🌱 Profundizando en <b>TypeScript</b> y el ecosistema <b>React / Node.js</b></li>
+        <li>🧩 Me interesa el análisis de requerimientos, el modelado <b>UML</b> y la auditoría de datos</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=300&height=40&lines=Scrum;Clean+Architecture;Java+Developer;MVC+%2B+DAO;Full+Stack+Developer" alt="Scrum, Clean Architecture, Java Developer, MVC + DAO, Full Stack Developer"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚡ Stack Tecnológico
 
-### 💻 Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 🚀 Lo que uso en la empresa
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</p>
-
-### 🗄️ Bases de datos
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🧰 Frameworks y herramientas
-<p>
-  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### 🧭 Metodologías
-<p>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-005571?style=for-the-badge" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/MVC_+_DAO-6A1B9A?style=for-the-badge" alt="MVC + DAO"/>
-  <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logoColor=black" alt="UML"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><b>💻 Lenguajes</b></td>
+    <td align="center" width="50%"><b>🗄️ Bases de datos</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,php,js,ts,dart,py&perline=6&theme=dark" alt="Java, PHP, JavaScript, TypeScript, Dart, Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend y móvil</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&theme=dark" alt="React, Next.js, Tailwind CSS, Bootstrap, Flutter"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Herramientas</b></td>
+    <td align="center"><b>🧭 Metodologías</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,nginx,jenkins,figma&perline=6&theme=dark" alt="Git, GitHub, Docker, Nginx, Jenkins, Figma"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scrum-8E2DE2?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
+      <img src="https://img.shields.io/badge/Clean_Architecture-4A00E0?style=for-the-badge" alt="Clean Architecture"/><br/>
+      <img src="https://img.shields.io/badge/MVC_+_DAO-6A1B9A?style=for-the-badge" alt="MVC + DAO"/>
+      <img src="https://img.shields.io/badge/UML-7B1FA2?style=for-the-badge" alt="UML"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
