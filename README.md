@@ -1,5 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">Juan Stevan Otero Noguera - Software Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=220&section=header&text=Juan%20Stevan%20Otero&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer&descSize=20&descAlignY=56&animation=fadeIn" alt="Juan Stevan Otero - Software Developer" width="100%"/>
+</p>
+
+<h3 align="center">Hi there 👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,7 +15,7 @@
 
 ## 👋 Sobre mí
 
-Tecnólogo en Análisis y Desarrollo de Software (SENA) y desarrollador. Mi fuerte es **Java**: aplicaciones de escritorio con arquitectura **MVC + DAO**, patrones de diseño y bases de datos relacionales. Trabajo en equipo con **Scrum** y me enfoco en código ordenado, mantenible y auditable.
+Desarrollador de software que construye soluciones completas, de la base de datos a la interfaz: desde aplicaciones de escritorio en **Java** hasta plataformas web y móviles en **producción** con **TypeScript**. Diseño sistemas con **arquitectura limpia** y patrones de diseño, con trazabilidad total de cada acción mediante auditoría. Trabajo con **Scrum** y entrego software mantenible, seguro y listo para crecer.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Java+Developer;Scrum;Clean+Architecture;MVC+%2B+DAO;SQL+%7C+MySQL+%7C+PostgreSQL" alt="Texto animado: Java Developer, Scrum, Clean Architecture, MVC + DAO, SQL"/></a>
@@ -112,4 +115,8 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) y desarrollador. Mi fuer
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevanotero&theme=tokyo-night&hide_border=true" alt="Gráfica de actividad"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer" width="100%" alt=""/>
 </p>
